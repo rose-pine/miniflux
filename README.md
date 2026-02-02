@@ -13,6 +13,20 @@
 4. Click update.
 
 
+## Gallery
+
+### Rose Piné
+
+![Rosé Pine](https://i.imgur.com/ePkbTvd.png)
+
+### Rose Piné Moon
+
+![Rosé Pine Moon](https://i.imgur.com/qcf6CqB.png)
+
+### Rose Piné Dawn
+
+![Rosé Pine Dawn](https://i.imgur.com/my2hrnl.png)
+
 ## Thanks to
 
 - [Catppuccin Org](https://github.com/catppuccin)
